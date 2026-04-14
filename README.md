@@ -1,1 +1,1 @@
-motherway.us static site on github.io
+motherway.org static site on github.io
